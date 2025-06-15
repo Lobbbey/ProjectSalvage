@@ -1,0 +1,12 @@
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/flutter_application_1
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/icudtl.dat
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/root/programing/ProjectSalvageApp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
